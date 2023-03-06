@@ -1,0 +1,64 @@
+{
+    "products":[
+        {
+            "name":"Example",
+            "description":"ESPUMA FIJADORA DE FORMULA TRENZADA, MENTOLADA(2.7OZ / 80ML), FORMULA HIDRATANTE QUE AÑADE HIDRATACION Y SUJETA A LAS TRANZAS PARA UN ACABADO IMPECABLE",
+            "price":"00.00",
+            "image":"images/menthol.jpg"
+        },
+        {
+            "name":"Example",
+            "description":"ESPUMA FIJADORA DE FORMULA TRENZADA, MENTOLADA(12.49Z / 354ML), FORMULA HIDRATANTE QUE AÑADE HIDRATACION Y SUJETA A LAS TRANZAS PARA UN ACABADO IMPECABLE",
+            "price":"00.00",
+            "image":"images/menthol2.jpg"
+        },
+        {
+            "name":"Example",
+            "description":"ESPUMA DE ACEITE DE OLIVA(12.49Z / 354ML), FÓRMULA HIDRATANTE QUE AÑADE HIDRATACIÓN Y MANTIENE A LAS TRENZAS PARA UN ACABADO IMPECABLE",
+            "price":"00.00",
+            "image":"images/olive.jpg"
+        },
+        {
+            "name":"Example",
+            "description":"ESPUMA DE ACEITE DE ALMENDRAS DULCES(12.49Z / 354ML), FORTALECEDOR Y BRILLO",
+            "price":"00.00",
+            "image":"images/sweetoil.jpg"
+        },
+        {
+            "name":"Example",
+            "description":"BRILLO TRENZADO DE 24 HORAS. (2 ONZAS / 2.0 FL OZ)",
+            "price":"00.00",
+            "image":"images/sheen.jpg"
+        },
+        {
+            "name":"Example",
+            "description":"DESENREDANTE DE 5 SEGUNDOS PARA CABELLO NATURAL (2 ONZAS, 2.0 FL OZ)",
+            "price":"00.00",
+            "image":"images/natural.jpg"
+        },
+        {
+            "name":"Example",
+            "description":"DESENREDANTE DE 5 SEGUNDOS PARA PELUCA (2 ONZAS / 2.0 FL OZ)",
+            "price":"00.00",
+            "image":"images/wigs.jpg"
+        },
+        {
+            "name":"Example",
+            "description":"DESENREDANTE DE 5 SEGUNDOS PARA CABELLO BRASILEÑO (2 ONZAS, 2.0 FL OZ)",
+            "price":"00.00",
+            "image":"images/brazilian.jpg"
+        },
+        {
+            "name":"Example",
+            "description":"DETANGLER DE 5 SEGUNDOS - CABELLO BRASILEÑO (8.5 OZ / 250ML)",
+            "price":"00.00",
+            "image":"images/5sbrazilian.jpg"
+        },
+        {
+            "name":"Example",
+            "description":"SPRAY DE BRILLO PARA PELUCA DE 24 HORAS, (8.5 OZ / 250ML)",
+            "price":"00.00",
+            "image":"images/24hourwigshine.jpg"
+        }
+    ]
+}
